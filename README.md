@@ -90,7 +90,7 @@ The objective of this project is to strengthen skills in **data analysis, visual
 
 ## 📸 Dashboard Preview
 
-![Dashboard Screenshot](./dashboard.png)
+![Dashboard Screenshot](./dashboard_5.png)
 
 ---
 
